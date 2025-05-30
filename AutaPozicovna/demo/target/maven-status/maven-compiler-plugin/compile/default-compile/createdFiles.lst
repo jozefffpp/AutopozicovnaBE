@@ -1,0 +1,6 @@
+com\example\demo\cars\CarEntity.class
+com\example\demo\cars\CarService.class
+com\example\demo\cars\CarRepository.class
+com\example\demo\cars\CarController.class
+com\example\demo\cars\CarDto.class
+com\example\demo\cars\CorsConfig.class
